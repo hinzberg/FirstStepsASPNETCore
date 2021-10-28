@@ -1,4 +1,4 @@
-# FirstStepsASPNETCore
+# First Steps in ASP.NET Core
 
 Based on a tutorial by https://www.tutorialsteacher.com/mvc
 
